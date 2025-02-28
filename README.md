@@ -34,8 +34,3 @@ A **real-time video conferencing** platform built using **Python** with WebRTC, 
 
 
 ---
-
-
-💡 **Happy Coding!** 🚀  
-
-Let me know if you need any modifications! 😊
